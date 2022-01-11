@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ugur.baran\\Source\\Repos\\BasicSample_Api\\BasicSample_Api\\BasicSample_Api.csproj": {}
+    "C:\\Users\\ugur.baran\\Desktop\\İnnova Bootcamp\\16-UgurBaran\\Week1\\BasicSample_Api\\BasicSample_Api\\BasicSample_Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ugur.baran\\Source\\Repos\\BasicSample_Api\\BasicSample_Api\\BasicSample_Api.csproj": {
+    "C:\\Users\\ugur.baran\\Desktop\\İnnova Bootcamp\\16-UgurBaran\\Week1\\BasicSample_Api\\BasicSample_Api\\BasicSample_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugur.baran\\Source\\Repos\\BasicSample_Api\\BasicSample_Api\\BasicSample_Api.csproj",
+        "projectUniqueName": "C:\\Users\\ugur.baran\\Desktop\\İnnova Bootcamp\\16-UgurBaran\\Week1\\BasicSample_Api\\BasicSample_Api\\BasicSample_Api.csproj",
         "projectName": "BasicSample_Api",
-        "projectPath": "C:\\Users\\ugur.baran\\Source\\Repos\\BasicSample_Api\\BasicSample_Api\\BasicSample_Api.csproj",
+        "projectPath": "C:\\Users\\ugur.baran\\Desktop\\İnnova Bootcamp\\16-UgurBaran\\Week1\\BasicSample_Api\\BasicSample_Api\\BasicSample_Api.csproj",
         "packagesPath": "C:\\Users\\ugur.baran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugur.baran\\Source\\Repos\\BasicSample_Api\\BasicSample_Api\\obj\\",
+        "outputPath": "C:\\Users\\ugur.baran\\Desktop\\İnnova Bootcamp\\16-UgurBaran\\Week1\\BasicSample_Api\\BasicSample_Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

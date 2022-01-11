@@ -13,6 +13,7 @@ namespace BasicSample_Api.Controllers
     [ApiController]
     public class ToItemsController : ControllerBase
     {
+        // test için değişkenler tanımlandı
         public List<ToItems> items = new List<ToItems>()
         {
             new ToItems { Id = 1, Name = "Erdi", Surname = "Demir"},
@@ -20,7 +21,7 @@ namespace BasicSample_Api.Controllers
             new ToItems { Id = 3, Name = "Kagan", Surname = "Fındık"}
 
         };
-         //GET api/values
+         //GETALL methodu 
          [HttpGet]
         public ActionResult<IEnumerable<ToItems>> GetAllItems()
         {
@@ -28,10 +29,11 @@ namespace BasicSample_Api.Controllers
 
         }
 
-        //GET api/values/3
+        //Id ye göre filtrelemek için
         [HttpGet("{id}")]
         public ActionResult<ToItems> Get(int id)
         {
+            // verilen id ye göre listeyi tarar
             var item = items.FirstOrDefault(x => x.Id == id);
             if (item == null)
             {
@@ -40,21 +42,21 @@ namespace BasicSample_Api.Controllers
             return item;
         }
 
-        //POST api/values
+        //ToDo
         [HttpPost]
         public void Post([FromBody] ToItems value)
         {
 
         }
 
-        // PUT api/values/3
+        // Todo
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] ToItems value)
         {
 
         }
 
-        //DELETE api/values/3
+        //Todo
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
