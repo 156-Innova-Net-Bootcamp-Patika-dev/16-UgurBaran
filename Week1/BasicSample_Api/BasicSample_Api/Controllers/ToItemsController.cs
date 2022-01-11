@@ -13,12 +13,15 @@ namespace BasicSample_Api.Controllers
     [ApiController]
     public class ToItemsController : ControllerBase
     {
+       
         // test için değişkenler tanımlandı
         public List<ToItems> items = new List<ToItems>()
         {
             new ToItems { Id = 1, Name = "Erdi", Surname = "Demir"},
-            new ToItems { Id = 2, Name = "Ugur", Surname = "Baran"},
-            new ToItems { Id = 3, Name = "Kagan", Surname = "Fındık"}
+            new ToItems { Id = 2, Name = "Ozge", Surname = "Acik"},
+            new ToItems { Id = 3, Name = "Kagan", Surname = "Fındık"},
+            new ToItems { Id = 4, Name = "Merve", Surname = "Bilgic"},
+            new ToItems { Id = 4, Name = "Ugur", Surname = "Baran"}
 
         };
          //GETALL methodu 
@@ -42,18 +45,34 @@ namespace BasicSample_Api.Controllers
             return item;
         }
 
-        //ToDo
+        //Ekleme işlemi yapılıyor.
         [HttpPost]
-        public void Post([FromBody] ToItems value)
+        public IActionResult Post([FromBody] ToItems product)
         {
-
+            items.Add(product);
+            return StatusCode(StatusCodes.Status201Created);
         }
+        
 
-        // Todo
+
+        // UPDATE  işlemi yapılıyor
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] ToItems value)
+        public IActionResult Put(int id, [FromBody] ToItems item)
         {
+            var currentItem = items.Where(x => x.Id == id).FirstOrDefault();
 
+            if (currentItem != null)
+            {
+                currentItem.Name = item.Name;
+                currentItem.Surname = item.Surname;
+
+
+                return Ok();
+            }
+            else
+            {
+                return NotFound("Kisi bulunamadı!");
+            }
         }
 
         //Todo
@@ -61,14 +80,16 @@ namespace BasicSample_Api.Controllers
         public ActionResult<ToItems> Delete(int id)
         {
             var item = items.FirstOrDefault(x => x.Id == id);
-            if (item == null)
+            if (item ! == null)
             {
-                return NotFound($"Aradığınız kişi bulunamadı");
+                items.Remove(item);
             }
-            items.Remove(item);
-            return item;
+            
+            return NotFound($"Aradığınız kişi bulunamadı");
+            
         }
-    
+
+       
     }
 
     }
