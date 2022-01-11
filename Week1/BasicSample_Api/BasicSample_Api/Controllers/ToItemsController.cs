@@ -58,9 +58,15 @@ namespace BasicSample_Api.Controllers
 
         //Todo
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public ActionResult<ToItems> Delete(int id)
         {
-
+            var item = items.FirstOrDefault(x => x.Id == id);
+            if (item == null)
+            {
+                return NotFound($"Aradığınız kişi bulunamadı");
+            }
+            items.Remove(item);
+            return item;
         }
     
     }

@@ -29,3 +29,34 @@ C:\Users\ugur.baran\Source\Repos\BasicSample_Api\BasicSample_Api\obj\Debug\net5.
 C:\Users\ugur.baran\Source\Repos\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.pdb
 C:\Users\ugur.baran\Source\Repos\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.genruntimeconfig.cache
 C:\Users\ugur.baran\Source\Repos\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.csproj.AssemblyReference.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\appsettings.json
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\BasicSample_Api.exe
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\BasicSample_Api.deps.json
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\BasicSample_Api.runtimeconfig.json
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\BasicSample_Api.runtimeconfig.dev.json
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\BasicSample_Api.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\ref\BasicSample_Api.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\BasicSample_Api.pdb
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.csprojAssemblyReference.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.AssemblyInfoInputs.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.AssemblyInfo.cs
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.csproj.CoreCompileInputs.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\staticwebassets\BasicSample_Api.StaticWebAssets.Manifest.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\staticwebassets\BasicSample_Api.StaticWebAssets.xml
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\scopedcss\bundle\BasicSample_Api.styles.css
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.RazorTargetAssemblyInfo.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.csproj.CopyComplete
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\ref\BasicSample_Api.dll
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.pdb
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.genruntimeconfig.cache
