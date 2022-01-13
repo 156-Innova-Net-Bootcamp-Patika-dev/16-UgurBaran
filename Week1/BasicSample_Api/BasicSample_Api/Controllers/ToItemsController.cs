@@ -13,23 +13,24 @@ namespace BasicSample_Api.Controllers
     [ApiController]
     public class ToItemsController : ControllerBase
     {
-       
-        // test için değişkenler tanımlandı
-        public List<ToItems> items = new List<ToItems>()
-        {
-            new ToItems { Id = 1, Name = "Erdi", Surname = "Demir"},
-            new ToItems { Id = 2, Name = "Ozge", Surname = "Acik"},
-            new ToItems { Id = 3, Name = "Kagan", Surname = "Fındık"},
-            new ToItems { Id = 4, Name = "Merve", Surname = "Bilgic"},
-            new ToItems { Id = 4, Name = "Ugur", Surname = "Baran"}
 
+        // test için değişkenler tanımlandı
+        public static List<ToItems> items = new List<ToItems>()
+        {
+
+                new ToItems { Id = 1, Name = "Erdi", Surname = "Demir"},
+                new ToItems { Id = 2, Name = "Ozge", Surname = "Acik"},
+                new ToItems { Id = 3, Name = "Kagan", Surname = "Fındık" },
+                new ToItems { Id = 4, Name = "Merve", Surname = "Bilgic" },
+                new ToItems { Id = 5, Name = "Ugur", Surname = "Baran" }
         };
+        
          //GETALL methodu 
          [HttpGet]
         public ActionResult<IEnumerable<ToItems>> GetAllItems()
         {
+           
             return items;
-
         }
 
         //Id ye göre filtrelemek için
@@ -40,16 +41,16 @@ namespace BasicSample_Api.Controllers
             var item = items.FirstOrDefault(x => x.Id == id);
             if (item == null)
             {
-                return NotFound();
+                return NotFound("Aranılan kisi bulunamadı");
             }
             return item;
         }
 
         //Ekleme işlemi yapılıyor.
         [HttpPost]
-        public IActionResult Post([FromBody] ToItems product)
+        public IActionResult Post([FromBody] ToItems item)
         {
-            items.Add(product);
+            items.Add(item);
             return StatusCode(StatusCodes.Status201Created);
         }
         
@@ -67,7 +68,7 @@ namespace BasicSample_Api.Controllers
                 currentItem.Surname = item.Surname;
 
 
-                return Ok();
+                return Ok("İslem Basarılı");
             }
             else
             {
@@ -75,17 +76,23 @@ namespace BasicSample_Api.Controllers
             }
         }
 
-        //Todo
+        //Delete işlemi yapılıyor.
         [HttpDelete("{id}")]
         public ActionResult<ToItems> Delete(int id)
         {
             var item = items.FirstOrDefault(x => x.Id == id);
-            if (item ! == null)
+            if (item != null)
             {
                 items.Remove(item);
+                return NotFound("İşlem Başarılı");
             }
+            else
+            {
+                return NotFound("Aradığınız kişi bulunamadı");
+            }
+
             
-            return NotFound($"Aradığınız kişi bulunamadı");
+            
             
         }
 

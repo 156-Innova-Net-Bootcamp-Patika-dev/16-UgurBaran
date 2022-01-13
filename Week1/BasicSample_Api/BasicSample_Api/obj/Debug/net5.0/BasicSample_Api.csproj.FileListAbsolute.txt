@@ -44,7 +44,6 @@ C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\bin\Debug\net5.0\System.IO.Packaging.dll
-C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.csprojAssemblyReference.cache
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.AssemblyInfoInputs.cache
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.AssemblyInfo.cs
