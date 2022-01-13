@@ -59,3 +59,4 @@ C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\ref\BasicSample_Api.dll
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.pdb
 C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.genruntimeconfig.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\16-UgurBaran\Week1\BasicSample_Api\BasicSample_Api\obj\Debug\net5.0\BasicSample_Api.csprojAssemblyReference.cache
