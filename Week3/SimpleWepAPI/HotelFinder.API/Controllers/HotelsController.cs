@@ -15,7 +15,7 @@ namespace HotelFinder.API.Controllers
     public class HotelsController : ControllerBase
     {
         private IHotelService _hotelService;
-        public HotelsController(IHotelService hotelService)  // Dependency İndencions  için bunu kullanıyoruz
+        public HotelsController(IHotelService hotelService)  // Dependency İnjections  için bunu kullanıyoruz
         {
             _hotelService = hotelService;  //  Önceden new HotelManager();  şeklindeydi 
         }

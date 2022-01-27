@@ -17,7 +17,7 @@ namespace HotelFinder.Business.Concrete
 
         private IHotelRepository _hotelRepository; // Constructor metod içinde new ledik
 
-        public HotelManager(IHotelRepository hotelRepository)// Dependency İndencions geregi bu şekilde kullanmak dah dogru
+        public HotelManager(IHotelRepository hotelRepository)// Dependency İnjections geregi bu şekilde kullanmak dah dogru
         {
             _hotelRepository = hotelRepository;  // Önceden = new HotelRepository  olarak yazılmıştı 
         }
