@@ -1,0 +1,3 @@
+- .Net Core ile   Entity Framewrok kullanılarak katmanlı mimariye sahip bir API projesi geliştirildi.
+- Migrations kullanılarakDatabase den bagımsız bir şekilde tamamen kod tarafında işlemler yapıldı.
+- Dependency İndencions içinde  Singleton Design Pattern yapısı kullanıldı.
