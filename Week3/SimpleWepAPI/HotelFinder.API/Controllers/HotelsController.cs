@@ -21,18 +21,19 @@ namespace HotelFinder.API.Controllers
         }
 
         [HttpGet]  // Get meotodu  
-        public List<Hotel> Get()
+        public List<Hotel> Get()    // Otel Listeleme islemi yapıyoruz
         {
             return _hotelService.GetAllHotels();
 
         }
 
         [HttpGet("{id}")]
-        public Hotel Get(int id) {
+        public Hotel Get(int id)  // id ye göre Otel Listeleme islemi yapıyoruz.
+        {
             return _hotelService.GetHotelById(id);
         }
 
-        [HttpPost] // Otel ekleme islemi yapıyor
+        [HttpPost] // Otel ekleme islemi yapıyor....   id vermeye gerek yok zaten identity dolduruyor
         public Hotel Post([FromBody] Hotel hotel) {  // Body kısmında bir otel bekliyor
             return _hotelService.CreateHotel(hotel);
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SgPIHVcs19ir1B+bV3hLyEdHWH+6U3s0AtAWodquf0axzAcegT8DPnsKyaMinU4clohPNgLE7ymXH+x5Alcggw==",
+  "dgSpecHash": "44+Y2sV4Up8EnXKAyS9/djq5UEITWsSOfFb3TEzvYVh5kCDteNjtBn3vOGU61Xhiq3RjG6OCFaXlvZfGLRIPow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ugur.baran\\Source\\Repos\\SimpleWepAPI\\HotelFinder.Business\\HotelFinder.Business.csproj",
+  "projectFilePath": "C:\\Users\\ugur.baran\\Desktop\\İnnova Bootcamp\\16-UgurBaran\\Week3\\SimpleWepAPI\\HotelFinder.Business\\HotelFinder.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ugur.baran\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ugur.baran\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

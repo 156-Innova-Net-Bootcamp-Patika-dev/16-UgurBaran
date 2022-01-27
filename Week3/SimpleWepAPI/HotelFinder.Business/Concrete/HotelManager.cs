@@ -23,17 +23,17 @@ namespace HotelFinder.Business.Concrete
         }
         public Hotel CreateHotel(Hotel hotel)
         {
-            return _hotelRepository.CreateHotel(hotel);
+            return _hotelRepository.CreateHotel(hotel);// ekleme islemi 
         }
 
         public void DeleteHotel(int id)
         {
-            _hotelRepository.DeleteHotel(id);
+            _hotelRepository.DeleteHotel(id); // Silme islemi 
         }
 
         public List<Hotel> GetAllHotels()
         {
-            return _hotelRepository.GetAllHotels();
+            return _hotelRepository.GetAllHotels();  // Listeleme 
         }
 
         public Hotel GetHotelById(int id)
@@ -49,7 +49,7 @@ namespace HotelFinder.Business.Concrete
 
         public Hotel Update(Hotel hotel)
         {
-            return _hotelRepository.UpdateHotel(hotel);
+            return _hotelRepository.UpdateHotel(hotel);  // Güncelleme 
         }
     }
 }

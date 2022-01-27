@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X/6cGlhJ9+3aCPl0p+lfLbo9BRxe/9BobFGqcgvGF4jTvNSR3W8IaHZT7cCLrSZtAPTlUkNsP++/v53rJa97Mw==",
+  "dgSpecHash": "0AhMhmG+8GVSApGKNpR7IRNXmCoL+K0sfZFbUAksdJfDunyeVWnUgkHuLUI/pwTFgwLe15h8S46Ypz3uUvnTFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ugur.baran\\Source\\Repos\\SimpleWepAPI\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ugur.baran\\Desktop\\İnnova Bootcamp\\16-UgurBaran\\Week3\\SimpleWepAPI\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ugur.baran\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ugur.baran\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
