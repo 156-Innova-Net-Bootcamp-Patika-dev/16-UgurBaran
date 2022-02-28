@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SiteManage.Business\SiteManage.Business.csproj" />
+    <ProjectReference Include="..\SiteManage.DataAccess\SiteManage.DataAccess.csproj" />
+    <ProjectReference Include="..\SiteManage.Entities\SiteManage.Entities.csproj" />
+    <ProjectReference Include="..\SiteManage.Models\SiteManage.Models.csproj" />
+    <ProjectReference Include="..\SiteManage.Test\SiteManage.Test.csproj" />
+  </ItemGroup>
+
+</Project>

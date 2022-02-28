@@ -1,0 +1,7 @@
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\SiteManage\Payment.API\obj\Debug\net5.0\Payment.API.csproj.AssemblyReference.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\SiteManage\Payment.API\obj\Debug\net5.0\Payment.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\SiteManage\Payment.API\obj\Debug\net5.0\Payment.API.AssemblyInfoInputs.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\SiteManage\Payment.API\obj\Debug\net5.0\Payment.API.AssemblyInfo.cs
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\SiteManage\Payment.API\obj\Debug\net5.0\Payment.API.csproj.CoreCompileInputs.cache
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\SiteManage\Payment.API\obj\Debug\net5.0\Payment.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ugur.baran\Desktop\İnnova Bootcamp\SiteManage\Payment.API\obj\Debug\net5.0\Payment.API.MvcApplicationPartsAssemblyInfo.cache
